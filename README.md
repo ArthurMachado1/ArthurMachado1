@@ -7,16 +7,32 @@
 
 ## Minhas Estatísticas
 
-<div style="display: inline_block">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurMachado1&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="160em"  width="400em">
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurMachado1&theme=dark" alt="Sequência de Commits" height="160em"  width="400em">
+ <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=ArthurMachado1&show_icons=true&theme=radical" 
+          alt="Estatísticas do GitHub" 
+          width="420"
+          height="180"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurMachado1&theme=radical" 
+          alt="Sequência de Commits" 
+          width="420"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
+
   <br>
 
-</div>
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMachado1&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="160em"  width="500em">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMachado1&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="160em"  width="500em">
 </div>
 
 ---
