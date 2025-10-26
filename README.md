@@ -7,16 +7,16 @@
 
 ## Minhas Estatísticas
 
-<div style="display: inline_block">
-   <img src="https://github-readme-stats.vercel.app/api?username=ArthurMachado1&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="180em">
+<div style="display: flex">
+   <img src="https://github-readme-stats.vercel.app/api?username=ArthurMachado1&show_icons=true&theme=dark" alt="Estatísticas do GitHub" height="180em"  width="400em">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurMachado1&theme=radical" alt="Sequência de Commits" height="180em">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurMachado1&theme=dark" alt="Sequência de Commits" height="180em"  width="400em">
   <br>
 
 </div>
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMachado1&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="160em">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMachado1&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="160em"  width="500em">
 </div>
 
 ---
