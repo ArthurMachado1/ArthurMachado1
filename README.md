@@ -31,8 +31,8 @@
   <br>
 
 
-<div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMachado1&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="160em"  width="500em">
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMachado1&layout=compact&theme=dark" alt="Linguagens Mais Usadas" height="160em"  width="500em">
 </div>
 
 ---
