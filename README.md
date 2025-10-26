@@ -12,8 +12,11 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurMachado1&theme=radical" alt="Sequência de Commits" height="180em">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMachado1&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="160em">
 
+</div>
+
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMachado1&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="160em">
 </div>
 
 ---
