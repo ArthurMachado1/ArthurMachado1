@@ -7,7 +7,7 @@
 
 ## Minhas Estatísticas
 
-<div>
+<div style="display: inline_block">
    <img src="https://github-readme-stats.vercel.app/api?username=ArthurMachado1&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="180em">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurMachado1&theme=radical" alt="Sequência de Commits" height="180em">
