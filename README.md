@@ -1,6 +1,6 @@
 # Olá, eu sou o Arthur! 
 
-*Estudante do 2° ano de Informática do CEFET-MG Varginha*
+*Estudante do 2° ano de Informática do CEFET-MG Varginha*<br>
 *Interessado por programação e tecnologia*
 
 ---
