@@ -7,14 +7,13 @@
 
 ## Minhas Estatísticas
 
-<div align="center">  
-  <img src="https://git-hub-streak-stats.vercel.app?user=ArthurMachado1-mg&theme=dracula&hide_border=true&locale=pt_BR" width="49%" />
-    <img width="10" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurMachado1-mg&show_icons=true&theme=dracula&hide_border=true" width="46%" />
-</div>
-</br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurMachado1-mg&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=true" width="45%" alt="Top Languages" />
+<div>
+   <img src="https://github-readme-stats.vercel.app/api?username=ArthurMachado1&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurMachado1&theme=radical" alt="Sequência de Commits">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMachado1&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+
 </div>
 
 ---
@@ -31,7 +30,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/arthur_machado._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arthurribeiromachado4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
